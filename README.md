@@ -4,7 +4,8 @@ Dictionary Application
 it's simple and powerful dictionary
 
 * Work with Room database and Pre-populate db in Assets.
-* use LiveData for communicate activity and db.
+* use ViewModel for communicate activity and Repository.
+* use LiveData for Observe data change.
 * real time search with textWatcher interface.
 * use kotlin Extension Function for Log And RecyclerView layoutManager.
 
