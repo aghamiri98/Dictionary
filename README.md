@@ -8,6 +8,6 @@ it's simple and powerful dictionary
 *real time search with textWatcher interface
 *use kotlin Extension Function for Log And RecyclerView layoutManager
 
-<img src="https://github.com/aghamiri98/Dictionary/blob/master/pics/shot01.jpg" width="200"><img src="https://github.com/aghamiri98/Dictionary/blob/master/pics/shot02.jpg" width="200">
+<img src="https://github.com/aghamiri98/Dictionary/blob/master/pics/shot1.jpg" width="200"><img src="https://github.com/aghamiri98/Dictionary/blob/master/pics/shot2.jpg" width="200">
 
 
